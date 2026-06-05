@@ -15,3 +15,5 @@ El juego busca representar de forma divertida los retos de movilidad en las call
 ## Logo del juego:
 ![alt text](logo.png)
 
+### PÓSTER GAME-FEST 2026
+![alt text](game-fest.jpg)
