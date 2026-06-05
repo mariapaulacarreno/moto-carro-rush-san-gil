@@ -15,9 +15,3 @@ El juego busca representar de forma divertida los retos de movilidad en las call
 ## Logo del juego:
 ![alt text](logo.png)
 
-## Activos del juego
-Coloca las imágenes en `assets/images/` con los siguientes nombres:
-`background.png`, `motocarro.png`, `hole.png`, `coin.png`.
-Coloca los sonidos en `assets/sounds/` con los nombres:
-`engine.wav`, `coin.wav`, `crash.wav`, `rain.wav`, `traffic.wav`, `people.wav`.
-Si no existen, el juego seguirá funcionando con gráficos y audio de reemplazo.
